@@ -1,6 +1,7 @@
 ## Hi,I'm👋Savan Dobariya
 # 💫 About Me:
-I am currently a student at GLS University studying B.Sc. IT with a focus on Cybersecurity. I aspire to build my career in the Ethical hacking.
+I am currently a student at GLS University studying B.Sc. IT with a focus on Cybersecurity. 
+I aspire to build my career in the Ethical Hacking.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SavanDobariya)
